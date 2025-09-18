@@ -1,7 +1,5 @@
 # Semantic Search Engine: TF-IDF vs. Sentence Transformers
 
-[![Open in Colab](https://colab.research.google.com/drive/1qC-okEYKSKuT5GP13z0ifFt5wB6UHQtC)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/your-username/your-repo-name)
 
 A comparative analysis of traditional sparse (TF-IDF) and modern dense (Sentence-BERT) retrieval methods implemented in Python. This project demonstrates the strengths and weaknesses of each approach on the AG News dataset with comprehensive evaluation metrics.
 
@@ -32,17 +30,4 @@ The system processes 1,200+ news articles, handles natural language queries, and
 - ✅ **TF-IDF excels** at keyword-heavy queries (e.g., "Olympic games athletes medals")
 - ✅ **Dense Embeddings excel** at semantic queries (e.g., "How to manage company finances?")
 - ⚡ **TF-IDF is 5x faster** for query processing
-- 🎯 **Dense embeddings** provide better semantic understanding
 
-## 🛠️ Installation & Usage
-
-```bash
-# Clone repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run in Jupyter notebook or Google Colab
-jupyter notebook semantic_search_comparison.ipynb
