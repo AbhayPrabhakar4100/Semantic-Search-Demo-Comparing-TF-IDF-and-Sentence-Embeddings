@@ -1,7 +1,7 @@
 # Semantic-Search-Demo-Comparing-TF-IDF-and-Sentence-Embeddings
 End-to-end retrieval prototype: TF-IDF vs Sentence-BERT + FAISS on 1 k AG-News articles.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](&lt;your-colab-link&gt;)
+[![Open In Colab](https://colab.research.google.com/drive/1qC-okEYKSKuT5GP13z0ifFt5wB6UHQtC)
 
 ## TL;DR
 One-click notebook that ingests 1 200 news snippets, builds two search backends (sparse TF-IDF and dense Sentence-BERT + FAISS), evaluates with 10 real queries, and visualizes when sparse beats dense (and vice-versa).
