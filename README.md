@@ -1,6 +1,6 @@
 # Semantic Search Engine: TF-IDF vs. Sentence Transformers
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/semantic_search_comparison.ipynb)
+[![Open in Colab](https://colab.research.google.com/drive/1qC-okEYKSKuT5GP13z0ifFt5wB6UHQtC)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/your-username/your-repo-name)
 
 A comparative analysis of traditional sparse (TF-IDF) and modern dense (Sentence-BERT) retrieval methods implemented in Python. This project demonstrates the strengths and weaknesses of each approach on the AG News dataset with comprehensive evaluation metrics.
